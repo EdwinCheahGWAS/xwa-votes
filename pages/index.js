@@ -79,7 +79,7 @@ const Index = () => {
               textShadow: "0 4px 8px rgba(0, 0, 0, 0.125)",
             }}
           >
-            Student Council Elections 2021
+            Student Council Elections 2022
           </Heading>
           <h2
             style={{
